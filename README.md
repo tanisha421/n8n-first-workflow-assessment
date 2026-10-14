@@ -58,7 +58,7 @@ Manual Trigger → Edit Fields (Set)
 - Workflow canvas screenshot: To be added
 - Node configuration screenshot: To be added
 - Successful execution and JSON output screenshot: To be added
-- Demo video (Loom/YouTube): To be added
+- Demo videohttps://www.loom.com/share/a17035d16d3e429a9d35f6e56ec45aa4: To be added
 
 ## 8. Troubleshooting
 
